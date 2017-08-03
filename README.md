@@ -12,7 +12,7 @@ Quick Start
 Run the docker image and open port `6080`
 
 ```
-docker run -it --rm -p 6080:80 190783/docker-ubuntu-vnc-ai
+sudo docker run -it --rm -p 6080:80 190783/docker-ubuntu-vnc-ai
 ```
 
 Browse http://127.0.0.1:6080/
